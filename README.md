@@ -56,7 +56,7 @@ $ git clone https://github.com/KING-HANTER/finishing.git
 - Change to cloned directory and run `zphisher.sh` -
 ```
 $ cd kinghanter
-$ bash kinghanter.sh
+$ bash hanter.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
