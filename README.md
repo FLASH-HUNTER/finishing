@@ -1,19 +1,18 @@
-<!-- Zphisher -->
-
-<p align="center">
-  <img src=".imgs/logo.png">
 </p>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/83442984/139574384-400a29db-3161-4cda-ab1e-877871547700.png"
 
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Version-4.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/KING-HANTER/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/KING-HANTER/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/KING-HANTER/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/KING-HANTER/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-KING--HANTER-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -83,13 +82,6 @@ $ docker run --rm -it htrtech/finishing
 
 <h3 align="center">
 
-### Special Thanks :
-
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
 
 
 ### Find Me on :
