@@ -53,13 +53,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone https://github.com/KING-HANTER/finishing.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `kinghanter.sh` -
 ```
 $ cd kinghanter
 $ bash hanter.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `hanter` is installed.
 
 ### Run on Docker
 ```
