@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/KING-HANTER/finishing.git
+$ https://github.com/KING-HANTER/finishing.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
