@@ -49,7 +49,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/KING-HANTER/finishing.git
+$ git clone https://github.com/FLASH-HANTER/finishing.git
 ```
 
 - Change to cloned directory and run `kinghanter.sh` -
@@ -87,6 +87,6 @@ $ docker run --rm -it htrtech/finishing
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/KING-HANTER" target="_blank"><img src="https://img.shields.io/badge/Github-king hanter-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/hamid_rezakh1399" target="_blank"><img src="https://img.shields.io/badge/IG-%40king hanter-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/hamid_rezakh1399/" target="_blank"><img src="https://img.shields.io/badge/IG-%40king hanter-red?style=for-the-badge&logo=instagram"></a>
 </p>
 
